@@ -1,0 +1,152 @@
+c:\users\hugo\documents\visual studio 2015\Projects\SistemaControle\SistemaControle\bin\roslyn\csc.exe
+c:\users\hugo\documents\visual studio 2015\Projects\SistemaControle\SistemaControle\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\hugo\documents\visual studio 2015\Projects\SistemaControle\SistemaControle\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\hugo\documents\visual studio 2015\Projects\SistemaControle\SistemaControle\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\hugo\documents\visual studio 2015\Projects\SistemaControle\SistemaControle\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\hugo\documents\visual studio 2015\Projects\SistemaControle\SistemaControle\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\hugo\documents\visual studio 2015\Projects\SistemaControle\SistemaControle\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\hugo\documents\visual studio 2015\Projects\SistemaControle\SistemaControle\bin\roslyn\System.Collections.Immutable.dll
+c:\users\hugo\documents\visual studio 2015\Projects\SistemaControle\SistemaControle\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\hugo\documents\visual studio 2015\Projects\SistemaControle\SistemaControle\bin\roslyn\vbc.exe
+c:\users\hugo\documents\visual studio 2015\Projects\SistemaControle\SistemaControle\bin\roslyn\VBCSCompiler.exe
+c:\users\hugo\documents\visual studio 2015\Projects\SistemaControle\SistemaControle\bin\roslyn\VBCSCompiler.exe.config
+c:\users\hugo\documents\visual studio 2015\Projects\SistemaControle\SistemaControle\bin\SistemaControle.dll.config
+c:\users\hugo\documents\visual studio 2015\Projects\SistemaControle\SistemaControle\bin\SistemaControle.dll
+c:\users\hugo\documents\visual studio 2015\Projects\SistemaControle\SistemaControle\bin\SistemaControle.pdb
+c:\users\hugo\documents\visual studio 2015\Projects\SistemaControle\SistemaControle\bin\Antlr3.Runtime.dll
+c:\users\hugo\documents\visual studio 2015\Projects\SistemaControle\SistemaControle\bin\EntityFramework.dll
+c:\users\hugo\documents\visual studio 2015\Projects\SistemaControle\SistemaControle\bin\EntityFramework.SqlServer.dll
+c:\users\hugo\documents\visual studio 2015\Projects\SistemaControle\SistemaControle\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\hugo\documents\visual studio 2015\Projects\SistemaControle\SistemaControle\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\hugo\documents\visual studio 2015\Projects\SistemaControle\SistemaControle\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\hugo\documents\visual studio 2015\Projects\SistemaControle\SistemaControle\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\hugo\documents\visual studio 2015\Projects\SistemaControle\SistemaControle\bin\Microsoft.Owin.dll
+c:\users\hugo\documents\visual studio 2015\Projects\SistemaControle\SistemaControle\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\hugo\documents\visual studio 2015\Projects\SistemaControle\SistemaControle\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\hugo\documents\visual studio 2015\Projects\SistemaControle\SistemaControle\bin\Microsoft.Owin.Security.dll
+c:\users\hugo\documents\visual studio 2015\Projects\SistemaControle\SistemaControle\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\hugo\documents\visual studio 2015\Projects\SistemaControle\SistemaControle\bin\Microsoft.Owin.Security.Google.dll
+c:\users\hugo\documents\visual studio 2015\Projects\SistemaControle\SistemaControle\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\hugo\documents\visual studio 2015\Projects\SistemaControle\SistemaControle\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\hugo\documents\visual studio 2015\Projects\SistemaControle\SistemaControle\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\hugo\documents\visual studio 2015\Projects\SistemaControle\SistemaControle\bin\Microsoft.Web.Infrastructure.dll
+c:\users\hugo\documents\visual studio 2015\Projects\SistemaControle\SistemaControle\bin\Newtonsoft.Json.dll
+c:\users\hugo\documents\visual studio 2015\Projects\SistemaControle\SistemaControle\bin\Owin.dll
+c:\users\hugo\documents\visual studio 2015\Projects\SistemaControle\SistemaControle\bin\System.Net.Http.Formatting.dll
+c:\users\hugo\documents\visual studio 2015\Projects\SistemaControle\SistemaControle\bin\System.Web.Helpers.dll
+c:\users\hugo\documents\visual studio 2015\Projects\SistemaControle\SistemaControle\bin\System.Web.Http.dll
+c:\users\hugo\documents\visual studio 2015\Projects\SistemaControle\SistemaControle\bin\System.Web.Http.WebHost.dll
+c:\users\hugo\documents\visual studio 2015\Projects\SistemaControle\SistemaControle\bin\System.Web.Mvc.dll
+c:\users\hugo\documents\visual studio 2015\Projects\SistemaControle\SistemaControle\bin\System.Web.Optimization.dll
+c:\users\hugo\documents\visual studio 2015\Projects\SistemaControle\SistemaControle\bin\System.Web.Razor.dll
+c:\users\hugo\documents\visual studio 2015\Projects\SistemaControle\SistemaControle\bin\System.Web.WebPages.Deployment.dll
+c:\users\hugo\documents\visual studio 2015\Projects\SistemaControle\SistemaControle\bin\System.Web.WebPages.dll
+c:\users\hugo\documents\visual studio 2015\Projects\SistemaControle\SistemaControle\bin\System.Web.WebPages.Razor.dll
+c:\users\hugo\documents\visual studio 2015\Projects\SistemaControle\SistemaControle\bin\WebGrease.dll
+c:\users\hugo\documents\visual studio 2015\Projects\SistemaControle\SistemaControle\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\hugo\documents\visual studio 2015\Projects\SistemaControle\SistemaControle\bin\System.Web.Helpers.xml
+c:\users\hugo\documents\visual studio 2015\Projects\SistemaControle\SistemaControle\bin\System.Web.Mvc.xml
+c:\users\hugo\documents\visual studio 2015\Projects\SistemaControle\SistemaControle\bin\System.Web.Optimization.xml
+c:\users\hugo\documents\visual studio 2015\Projects\SistemaControle\SistemaControle\bin\System.Web.Razor.xml
+c:\users\hugo\documents\visual studio 2015\Projects\SistemaControle\SistemaControle\bin\System.Web.WebPages.xml
+c:\users\hugo\documents\visual studio 2015\Projects\SistemaControle\SistemaControle\bin\System.Web.WebPages.Deployment.xml
+c:\users\hugo\documents\visual studio 2015\Projects\SistemaControle\SistemaControle\bin\System.Web.WebPages.Razor.xml
+c:\users\hugo\documents\visual studio 2015\Projects\SistemaControle\SistemaControle\bin\Antlr3.Runtime.pdb
+c:\users\hugo\documents\visual studio 2015\Projects\SistemaControle\SistemaControle\bin\Newtonsoft.Json.xml
+c:\users\hugo\documents\visual studio 2015\Projects\SistemaControle\SistemaControle\bin\System.Net.Http.Formatting.xml
+c:\users\hugo\documents\visual studio 2015\Projects\SistemaControle\SistemaControle\bin\System.Web.Http.xml
+c:\users\hugo\documents\visual studio 2015\Projects\SistemaControle\SistemaControle\bin\System.Web.Http.WebHost.xml
+c:\users\hugo\documents\visual studio 2015\Projects\SistemaControle\SistemaControle\bin\EntityFramework.xml
+c:\users\hugo\documents\visual studio 2015\Projects\SistemaControle\SistemaControle\bin\EntityFramework.SqlServer.xml
+c:\users\hugo\documents\visual studio 2015\Projects\SistemaControle\SistemaControle\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\hugo\documents\visual studio 2015\Projects\SistemaControle\SistemaControle\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\hugo\documents\visual studio 2015\Projects\SistemaControle\SistemaControle\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\hugo\documents\visual studio 2015\Projects\SistemaControle\SistemaControle\bin\Microsoft.Owin.xml
+c:\users\hugo\documents\visual studio 2015\Projects\SistemaControle\SistemaControle\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\hugo\documents\visual studio 2015\Projects\SistemaControle\SistemaControle\bin\Microsoft.Owin.Security.xml
+c:\users\hugo\documents\visual studio 2015\Projects\SistemaControle\SistemaControle\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\hugo\documents\visual studio 2015\Projects\SistemaControle\SistemaControle\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\hugo\documents\visual studio 2015\Projects\SistemaControle\SistemaControle\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\hugo\documents\visual studio 2015\Projects\SistemaControle\SistemaControle\bin\Microsoft.Owin.Security.Google.xml
+c:\users\hugo\documents\visual studio 2015\Projects\SistemaControle\SistemaControle\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\hugo\documents\visual studio 2015\Projects\SistemaControle\SistemaControle\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\hugo\documents\visual studio 2015\Projects\SistemaControle\SistemaControle\obj\Debug\SistemaControle.csprojResolveAssemblyReference.cache
+c:\users\hugo\documents\visual studio 2015\Projects\SistemaControle\SistemaControle\obj\Debug\SistemaControle.dll
+c:\users\hugo\documents\visual studio 2015\Projects\SistemaControle\SistemaControle\obj\Debug\SistemaControle.pdb
+D:\Portifolio Site\MVC\Arquivos-Sistema-Alunos\Arquivos Sistema Alunos\SistemaControle\SistemaControle\bin\roslyn\csc.exe
+D:\Portifolio Site\MVC\Arquivos-Sistema-Alunos\Arquivos Sistema Alunos\SistemaControle\SistemaControle\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Portifolio Site\MVC\Arquivos-Sistema-Alunos\Arquivos Sistema Alunos\SistemaControle\SistemaControle\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Portifolio Site\MVC\Arquivos-Sistema-Alunos\Arquivos Sistema Alunos\SistemaControle\SistemaControle\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Portifolio Site\MVC\Arquivos-Sistema-Alunos\Arquivos Sistema Alunos\SistemaControle\SistemaControle\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Portifolio Site\MVC\Arquivos-Sistema-Alunos\Arquivos Sistema Alunos\SistemaControle\SistemaControle\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Portifolio Site\MVC\Arquivos-Sistema-Alunos\Arquivos Sistema Alunos\SistemaControle\SistemaControle\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Portifolio Site\MVC\Arquivos-Sistema-Alunos\Arquivos Sistema Alunos\SistemaControle\SistemaControle\bin\roslyn\System.Collections.Immutable.dll
+D:\Portifolio Site\MVC\Arquivos-Sistema-Alunos\Arquivos Sistema Alunos\SistemaControle\SistemaControle\bin\roslyn\System.Reflection.Metadata.dll
+D:\Portifolio Site\MVC\Arquivos-Sistema-Alunos\Arquivos Sistema Alunos\SistemaControle\SistemaControle\bin\roslyn\vbc.exe
+D:\Portifolio Site\MVC\Arquivos-Sistema-Alunos\Arquivos Sistema Alunos\SistemaControle\SistemaControle\bin\roslyn\VBCSCompiler.exe
+D:\Portifolio Site\MVC\Arquivos-Sistema-Alunos\Arquivos Sistema Alunos\SistemaControle\SistemaControle\bin\roslyn\VBCSCompiler.exe.config
+D:\Portifolio Site\MVC\Arquivos-Sistema-Alunos\Arquivos Sistema Alunos\SistemaControle\SistemaControle\bin\SistemaControle.dll.config
+D:\Portifolio Site\MVC\Arquivos-Sistema-Alunos\Arquivos Sistema Alunos\SistemaControle\SistemaControle\bin\SistemaControle.dll
+D:\Portifolio Site\MVC\Arquivos-Sistema-Alunos\Arquivos Sistema Alunos\SistemaControle\SistemaControle\bin\SistemaControle.pdb
+D:\Portifolio Site\MVC\Arquivos-Sistema-Alunos\Arquivos Sistema Alunos\SistemaControle\SistemaControle\bin\Antlr3.Runtime.dll
+D:\Portifolio Site\MVC\Arquivos-Sistema-Alunos\Arquivos Sistema Alunos\SistemaControle\SistemaControle\bin\EntityFramework.dll
+D:\Portifolio Site\MVC\Arquivos-Sistema-Alunos\Arquivos Sistema Alunos\SistemaControle\SistemaControle\bin\EntityFramework.SqlServer.dll
+D:\Portifolio Site\MVC\Arquivos-Sistema-Alunos\Arquivos Sistema Alunos\SistemaControle\SistemaControle\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Portifolio Site\MVC\Arquivos-Sistema-Alunos\Arquivos Sistema Alunos\SistemaControle\SistemaControle\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Portifolio Site\MVC\Arquivos-Sistema-Alunos\Arquivos Sistema Alunos\SistemaControle\SistemaControle\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Portifolio Site\MVC\Arquivos-Sistema-Alunos\Arquivos Sistema Alunos\SistemaControle\SistemaControle\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Portifolio Site\MVC\Arquivos-Sistema-Alunos\Arquivos Sistema Alunos\SistemaControle\SistemaControle\bin\Microsoft.Owin.dll
+D:\Portifolio Site\MVC\Arquivos-Sistema-Alunos\Arquivos Sistema Alunos\SistemaControle\SistemaControle\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Portifolio Site\MVC\Arquivos-Sistema-Alunos\Arquivos Sistema Alunos\SistemaControle\SistemaControle\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Portifolio Site\MVC\Arquivos-Sistema-Alunos\Arquivos Sistema Alunos\SistemaControle\SistemaControle\bin\Microsoft.Owin.Security.dll
+D:\Portifolio Site\MVC\Arquivos-Sistema-Alunos\Arquivos Sistema Alunos\SistemaControle\SistemaControle\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Portifolio Site\MVC\Arquivos-Sistema-Alunos\Arquivos Sistema Alunos\SistemaControle\SistemaControle\bin\Microsoft.Owin.Security.Google.dll
+D:\Portifolio Site\MVC\Arquivos-Sistema-Alunos\Arquivos Sistema Alunos\SistemaControle\SistemaControle\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Portifolio Site\MVC\Arquivos-Sistema-Alunos\Arquivos Sistema Alunos\SistemaControle\SistemaControle\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Portifolio Site\MVC\Arquivos-Sistema-Alunos\Arquivos Sistema Alunos\SistemaControle\SistemaControle\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Portifolio Site\MVC\Arquivos-Sistema-Alunos\Arquivos Sistema Alunos\SistemaControle\SistemaControle\bin\Microsoft.Web.Infrastructure.dll
+D:\Portifolio Site\MVC\Arquivos-Sistema-Alunos\Arquivos Sistema Alunos\SistemaControle\SistemaControle\bin\Newtonsoft.Json.dll
+D:\Portifolio Site\MVC\Arquivos-Sistema-Alunos\Arquivos Sistema Alunos\SistemaControle\SistemaControle\bin\Owin.dll
+D:\Portifolio Site\MVC\Arquivos-Sistema-Alunos\Arquivos Sistema Alunos\SistemaControle\SistemaControle\bin\System.Net.Http.Formatting.dll
+D:\Portifolio Site\MVC\Arquivos-Sistema-Alunos\Arquivos Sistema Alunos\SistemaControle\SistemaControle\bin\System.Web.Helpers.dll
+D:\Portifolio Site\MVC\Arquivos-Sistema-Alunos\Arquivos Sistema Alunos\SistemaControle\SistemaControle\bin\System.Web.Http.dll
+D:\Portifolio Site\MVC\Arquivos-Sistema-Alunos\Arquivos Sistema Alunos\SistemaControle\SistemaControle\bin\System.Web.Http.WebHost.dll
+D:\Portifolio Site\MVC\Arquivos-Sistema-Alunos\Arquivos Sistema Alunos\SistemaControle\SistemaControle\bin\System.Web.Mvc.dll
+D:\Portifolio Site\MVC\Arquivos-Sistema-Alunos\Arquivos Sistema Alunos\SistemaControle\SistemaControle\bin\System.Web.Optimization.dll
+D:\Portifolio Site\MVC\Arquivos-Sistema-Alunos\Arquivos Sistema Alunos\SistemaControle\SistemaControle\bin\System.Web.Razor.dll
+D:\Portifolio Site\MVC\Arquivos-Sistema-Alunos\Arquivos Sistema Alunos\SistemaControle\SistemaControle\bin\System.Web.WebPages.Deployment.dll
+D:\Portifolio Site\MVC\Arquivos-Sistema-Alunos\Arquivos Sistema Alunos\SistemaControle\SistemaControle\bin\System.Web.WebPages.dll
+D:\Portifolio Site\MVC\Arquivos-Sistema-Alunos\Arquivos Sistema Alunos\SistemaControle\SistemaControle\bin\System.Web.WebPages.Razor.dll
+D:\Portifolio Site\MVC\Arquivos-Sistema-Alunos\Arquivos Sistema Alunos\SistemaControle\SistemaControle\bin\WebGrease.dll
+D:\Portifolio Site\MVC\Arquivos-Sistema-Alunos\Arquivos Sistema Alunos\SistemaControle\SistemaControle\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Portifolio Site\MVC\Arquivos-Sistema-Alunos\Arquivos Sistema Alunos\SistemaControle\SistemaControle\bin\System.Web.Helpers.xml
+D:\Portifolio Site\MVC\Arquivos-Sistema-Alunos\Arquivos Sistema Alunos\SistemaControle\SistemaControle\bin\System.Web.Mvc.xml
+D:\Portifolio Site\MVC\Arquivos-Sistema-Alunos\Arquivos Sistema Alunos\SistemaControle\SistemaControle\bin\System.Web.Optimization.xml
+D:\Portifolio Site\MVC\Arquivos-Sistema-Alunos\Arquivos Sistema Alunos\SistemaControle\SistemaControle\bin\System.Web.Razor.xml
+D:\Portifolio Site\MVC\Arquivos-Sistema-Alunos\Arquivos Sistema Alunos\SistemaControle\SistemaControle\bin\System.Web.WebPages.xml
+D:\Portifolio Site\MVC\Arquivos-Sistema-Alunos\Arquivos Sistema Alunos\SistemaControle\SistemaControle\bin\System.Web.WebPages.Deployment.xml
+D:\Portifolio Site\MVC\Arquivos-Sistema-Alunos\Arquivos Sistema Alunos\SistemaControle\SistemaControle\bin\System.Web.WebPages.Razor.xml
+D:\Portifolio Site\MVC\Arquivos-Sistema-Alunos\Arquivos Sistema Alunos\SistemaControle\SistemaControle\bin\Antlr3.Runtime.pdb
+D:\Portifolio Site\MVC\Arquivos-Sistema-Alunos\Arquivos Sistema Alunos\SistemaControle\SistemaControle\bin\Newtonsoft.Json.xml
+D:\Portifolio Site\MVC\Arquivos-Sistema-Alunos\Arquivos Sistema Alunos\SistemaControle\SistemaControle\bin\System.Net.Http.Formatting.xml
+D:\Portifolio Site\MVC\Arquivos-Sistema-Alunos\Arquivos Sistema Alunos\SistemaControle\SistemaControle\bin\System.Web.Http.xml
+D:\Portifolio Site\MVC\Arquivos-Sistema-Alunos\Arquivos Sistema Alunos\SistemaControle\SistemaControle\bin\System.Web.Http.WebHost.xml
+D:\Portifolio Site\MVC\Arquivos-Sistema-Alunos\Arquivos Sistema Alunos\SistemaControle\SistemaControle\bin\EntityFramework.xml
+D:\Portifolio Site\MVC\Arquivos-Sistema-Alunos\Arquivos Sistema Alunos\SistemaControle\SistemaControle\bin\EntityFramework.SqlServer.xml
+D:\Portifolio Site\MVC\Arquivos-Sistema-Alunos\Arquivos Sistema Alunos\SistemaControle\SistemaControle\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Portifolio Site\MVC\Arquivos-Sistema-Alunos\Arquivos Sistema Alunos\SistemaControle\SistemaControle\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Portifolio Site\MVC\Arquivos-Sistema-Alunos\Arquivos Sistema Alunos\SistemaControle\SistemaControle\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Portifolio Site\MVC\Arquivos-Sistema-Alunos\Arquivos Sistema Alunos\SistemaControle\SistemaControle\bin\Microsoft.Owin.xml
+D:\Portifolio Site\MVC\Arquivos-Sistema-Alunos\Arquivos Sistema Alunos\SistemaControle\SistemaControle\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Portifolio Site\MVC\Arquivos-Sistema-Alunos\Arquivos Sistema Alunos\SistemaControle\SistemaControle\bin\Microsoft.Owin.Security.xml
+D:\Portifolio Site\MVC\Arquivos-Sistema-Alunos\Arquivos Sistema Alunos\SistemaControle\SistemaControle\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Portifolio Site\MVC\Arquivos-Sistema-Alunos\Arquivos Sistema Alunos\SistemaControle\SistemaControle\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Portifolio Site\MVC\Arquivos-Sistema-Alunos\Arquivos Sistema Alunos\SistemaControle\SistemaControle\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Portifolio Site\MVC\Arquivos-Sistema-Alunos\Arquivos Sistema Alunos\SistemaControle\SistemaControle\bin\Microsoft.Owin.Security.Google.xml
+D:\Portifolio Site\MVC\Arquivos-Sistema-Alunos\Arquivos Sistema Alunos\SistemaControle\SistemaControle\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Portifolio Site\MVC\Arquivos-Sistema-Alunos\Arquivos Sistema Alunos\SistemaControle\SistemaControle\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Portifolio Site\MVC\Arquivos-Sistema-Alunos\Arquivos Sistema Alunos\SistemaControle\SistemaControle\obj\Debug\SistemaControle.csprojAssemblyReference.cache
+D:\Portifolio Site\MVC\Arquivos-Sistema-Alunos\Arquivos Sistema Alunos\SistemaControle\SistemaControle\obj\Debug\SistemaControle.csproj.CoreCompileInputs.cache
+D:\Portifolio Site\MVC\Arquivos-Sistema-Alunos\Arquivos Sistema Alunos\SistemaControle\SistemaControle\obj\Debug\SistemaControle.csproj.CopyComplete
+D:\Portifolio Site\MVC\Arquivos-Sistema-Alunos\Arquivos Sistema Alunos\SistemaControle\SistemaControle\obj\Debug\SistemaControle.dll
+D:\Portifolio Site\MVC\Arquivos-Sistema-Alunos\Arquivos Sistema Alunos\SistemaControle\SistemaControle\obj\Debug\SistemaControle.pdb
